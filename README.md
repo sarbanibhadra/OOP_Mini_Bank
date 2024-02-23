@@ -45,9 +45,13 @@ Updated the `MiniBank` constructor function with methods and properties as follo
 ## Results
 
 Balance: 0
+
 Deposited 85!
+
 Balance: 85
+
 Withdrew 20!
+
 Balance: 65
 1. 0
 2. 85
