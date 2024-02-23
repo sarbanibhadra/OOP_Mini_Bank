@@ -42,6 +42,17 @@ Updated the `MiniBank` constructor function with methods and properties as follo
 
 6. Printed the `bank` balance.
 
+## Results
+
+Balance: 0
+Deposited 85!
+Balance: 85
+Withdrew 20!
+Balance: 65
+1. 0
+2. 85
+3. -20
+
 ## BONUS 🏆
 
 - Added code to throw an error if the user tries to withdraw more money than they have or tries to deposit or withdraw values that aren't positive numbers.
